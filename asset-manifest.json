@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactappEZ/static/css/main.1e8453c1.css",
+    "main.js": "/reactappEZ/static/js/main.6b7f5428.js",
+    "static/js/453.a6a97343.chunk.js": "/reactappEZ/static/js/453.a6a97343.chunk.js",
+    "static/media/tips.csv": "/reactappEZ/static/media/tips.43007c7e472255eef549.csv",
+    "index.html": "/reactappEZ/index.html",
+    "main.1e8453c1.css.map": "/reactappEZ/static/css/main.1e8453c1.css.map",
+    "main.6b7f5428.js.map": "/reactappEZ/static/js/main.6b7f5428.js.map",
+    "453.a6a97343.chunk.js.map": "/reactappEZ/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e8453c1.css",
+    "static/js/main.6b7f5428.js"
+  ]
+}
