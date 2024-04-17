@@ -49,7 +49,7 @@ class Child1 extends Component {
       .data([0])
       .join('g')
       .attr("class", 'x_axis_g')
-      .attr("transform", `translate(${margin.left}, 0`)
+      .attr("transform", `translate(${margin.left}, 0)`)
       .call(d3.axisLeft(y_scale));
 
     container
